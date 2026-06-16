@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.16",
+    "@tailwindcss/vite": "^4.3.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@types/node": "^25.9.3",
@@ -17,12 +18,13 @@
     "@vitejs/plugin-react": "^6.0.2",
     "jsdom": "^29.1.1",
     "lefthook": "^2.1.9",
+    "tailwindcss": "^4.3.1",
     "typescript": "^6.0.3",
     "ultracite": "7.8.3",
     "vite": "^8.0.16",
     "vitest": "^4.1.9"
   },
-  "name": "tanstack-start-example-bare",
+  "name": "lime",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && tsc --noEmit",

@@ -8,6 +8,7 @@ Use `gitpick` with the repo path to the app you want:
 
 ```sh
 npx gitpick johnie/fresh/apps/lime my-app
+npx gitpick johnie/fresh/apps/yuzu my-app
 ```
 
 Then install dependencies and start the app:
@@ -29,3 +30,4 @@ pnpm test
 ## Available apps
 
 - `apps/lime` - TanStack Start starter app with Vitest
+- `apps/yuzu` - TanStack Start starter app on Cloudflare

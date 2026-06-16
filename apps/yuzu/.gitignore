@@ -1,0 +1,9 @@
+node_modules
+dist
+.vinxi
+coverage
+.DS_Store
+!.vscode
+.tanstack
+.idea
+.wrangler
